@@ -1,6 +1,8 @@
 # Discord Spoiler Tag (troll tool)
 A simple tool to troll your friends with: Discord Spoiler Tag :D
 
+(OBS: yeah im bored so lets have some fun with friends)
+
 ## What do u need
 - [AutoHotKey](https://www.autohotkey.com/)
 
